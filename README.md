@@ -6,3 +6,6 @@ We also made an additional change to the dataset in order for tripduration colum
 # Results
 [link to story](https://public.tableau.com/app/profile/lucas.chandra5119/viz/CitiBikeAnalysis_16286258816780/Story1?publish=yes)
 
+# Summary
+The results of the analysis shows that most users are active using citibike during after work hours and further analysis also shows that the majority citibike users only use our services for around 5 minutes at a time. We can also see that a mojority of our clients are male, second are females, and lastly others. Another observation is that from the graph that shows the number of bike riders during different times of the day, we can see that most acivity occur during 'going to work' and 'going home' hours. And lastly, from our last graph, we can see that male subscribers of the citibike service are the most active among all groups.
+
